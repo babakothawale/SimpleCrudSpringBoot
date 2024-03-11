@@ -7,6 +7,6 @@
 
     </head>
     <body>
-       Hi there
+       Hi ${name}
     </body>
 </html>
